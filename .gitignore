@@ -1,0 +1,4 @@
+
+*.ipynb
+
+scripts/\.ipynb_checkpoints/

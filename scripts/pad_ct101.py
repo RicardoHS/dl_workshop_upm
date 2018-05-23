@@ -23,10 +23,10 @@ for dir in dirs:
         osW = dW/2
         osH = dH/2
 
-        print 'Dims: {}'.format(dims)
+        print( 'Dims: {}'.format(dims))
         if dW != 0 or dH != 0:
             cmd = 'convert {} -resize {}x{}  -gravity center -background "rgb(255,255,255)" -extent {}x{} {}'.format(mypath+'/'+dir+'/'+f, WIDTH, HEIGHT, WIDTH, HEIGHT, mypath+'/'+dir+'/'+f)
-            print cmd
+            print(cmd)
             os.system(cmd)
             #os.system('identify {}'.format(mypath+'/'+dir+'/'+f))
 

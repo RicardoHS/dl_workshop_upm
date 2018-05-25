@@ -15,6 +15,7 @@ This work is originally forked from [@Brunez](https://sites.google.com/site/ordo
 * [Tensorflow-gpu][2]
 * [matplotlib][4]
 * [numpy][5]
+
 Use `pipenv run jupyter notebook` to handle all the python3 dependencies automaticatly.
 
 ## Other Dependencies

@@ -1,5 +1,5 @@
 # Deep learning introductory workshop
-Notebooks for the introductory workshop on deep learning held at ETSISI, Universidad Politécnica de Madrid, in October '17.
+This work is originally forked from [@Brunez](https://sites.google.com/site/ordozb/) repo [Notebooks for the introductory workshop on deep learning held at ETSISI, Universidad Politécnica de Madrid, in October '17.](https://github.com/brunez/dl_workshop_upm)
 
 ## Content
 * linear_regression: Contains all the linear regression examples we saw during the first session (house prices)

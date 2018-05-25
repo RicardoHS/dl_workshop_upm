@@ -10,12 +10,14 @@ This work is originally forked from [@Brunez](https://sites.google.com/site/ordo
 * transfer_learning: This notebook introduces the concept of transfer learning in computer vision. We use the weights of the VGG-16 network, trained on the ImageNet data set, to quickly build a strikingly accurate image classifier using a moderately sized data set.
  * scripts/pad_ct101.py: This script converts all the images in the specified (hardcoded) directory to a convenient format for the VGG network. Depends on [imagemagick][16]
 
-## Dependencies
+## Python3 Dependencies
 * [scikit-learn][1]
-* [Tensorflow][2]
-* [Keras][3]
+* [Tensorflow-gpu][2]
 * [matplotlib][4]
 * [numpy][5]
+Use `pipenv run jupyter notebook` to handle all the python3 dependencies automaticatly.
+
+## Other Dependencies
 * [Imagemagick][16]
 
 ## A few interesting links

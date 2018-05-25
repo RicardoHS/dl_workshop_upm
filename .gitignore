@@ -2,3 +2,7 @@
 *.ipynb
 
 scripts/\.ipynb_checkpoints/
+
+padded_101/
+
+test_imgs/
